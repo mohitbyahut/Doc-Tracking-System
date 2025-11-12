@@ -43,4 +43,3 @@ To enhance patient experience by providing **real-time visibility** of a doctorâ
 
 ---
 
-## ðŸ“‚ Folder Structure  
